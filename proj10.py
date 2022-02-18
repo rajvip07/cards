@@ -1,4 +1,3 @@
-# CSE 231 Project 10 
 # This project creates a card game where first we have to write an intialize 
 #                                                               function
 # Then we have to write a display function 
